@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Gấu Dâu",
+        "price": "49.90",
+        "description":"Sản phẩm mang hương thơm dâu tây ngọt ngào, dễ chịu, không gây nguy hiểm cho người sử dụng. Chất liệu cotton cao cấp mềm mại, thoải mái và thân thiện với làn da. Hình dáng dễ thương. Là món quà hoàn hảo cho mọi lứa tuổi. Được sử dụng để trang trí phòng khách, phòng ngủ hoặc góc họp tập, làm việc.",
+        "ratings":4.5,
+        "images":[
+            {
+                "public_id":"products/db3781b81a43c0a06a723f10152cd439&zimken",
+                "url":"https://cf.shopee.vn/file/db3781b81a43c0a06a723f10152cd439&zimken.jpg"
+    
+            }
+        ],
+        "category":"Qùa tặng bạn bè",
+        "seller":"Ebay",
+        "stock":50,
+        "numOfReviews":32,
+        "reviews":[]
+    },
+    {
+        "name": "Đồng Hồ Cát",
+        "price": "49.90",
+        "description":"Đồng hồ cát là một dạng đồng hồ, dụng cụ đo thời gian gồm hai bình thủy tinh được nối với nhau bằng một eo hẹp, để cát mịn chảy từ bình này sang bình kia qua eo nối, với một tốc độ nhất định.",
+        "ratings":4.5,
+        "images":[
+            {
+                "public_id":"products/y-nghia-dong-ho-cat",
+                "url":"https://cdn.galle.vn/media/upload_images/images/y-nghia-dong-ho-cat.jpg"
+    
+            }
+        ],
+        "category":"Qùa tặng bạn bè",
+        "seller":"Ebay",
+        "stock":50,
+        "numOfReviews":32,
+        "reviews":[]
+    }
+]
